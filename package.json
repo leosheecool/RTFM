@@ -1,0 +1,7 @@
+{
+    "name": "rtfm",
+    "version": "1.0.0",
+    "description": "my discord bot",
+    "main": "main.js",
+    "author": "Léo"
+}
